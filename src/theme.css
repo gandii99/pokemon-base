@@ -1,0 +1,31 @@
+:root {
+    --color-background: #eee;
+    --color-header: #4CAF50;
+    --color-font-header: #222;
+    --color-card-pokemon-background: #fff;;
+    --color-card-pokemon-border: #4CAF50;
+    --color-card-pokemon-img-background: #ddd;
+    --color-moreInfo-background: #eee;
+    --color-moreInfo-font: #444;
+    --color-moreInfo-border: #57bf38;
+    --color-font-white2: #eee;
+    --color-font-white2: #fff;
+    --color-filterType: rgb(219, 219, 50);
+
+}
+  
+.dark-mode{
+    --color-background: #282c34;
+    --color-header: #21252b;
+    --color-font-header: #eee;
+    --color-grey: #999;
+    --color-card-pokemon-background: #0a0d275e;
+    --color-card-pokemon-border: #4CAF50;
+    --color-card-pokemon-img-background: rgb(38, 36, 51);
+    --color-moreInfo: #444;
+    --color-moreInfo-font: #ddd;
+    --color-moreInfo-border: #57bf38;
+    --color-font-white2: #eee;
+    --color-font-white2: #fff;
+    --color-filterType: rgb(219, 219, 50); 
+}
