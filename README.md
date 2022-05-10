@@ -8,3 +8,10 @@ This project connects to the API server and obtains information about pokemons, 
 ## Screenshot
 ![App](https://user-images.githubusercontent.com/79333728/162024560-b2b4ce86-a704-405c-8695-8be54aeef000.jpg)
 
+## I used
+pokemon API - https://pokeapi.co
+React
+JavaScript
+HTML
+CSS
+Redux
