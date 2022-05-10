@@ -9,13 +9,9 @@ This project connects to the API server and obtains information about pokemons, 
 ![App](https://user-images.githubusercontent.com/79333728/162024560-b2b4ce86-a704-405c-8695-8be54aeef000.jpg)
 
 ## I used
-React
-
-
-
-
 <ul>
 <li>pokemon API - https://pokeapi.co </li>
+<li>React</li>
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
